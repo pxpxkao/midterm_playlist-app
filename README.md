@@ -38,23 +38,20 @@ If you don't want to register, please login with
 Email: guest@gmail.com
 Password: guest
 ```
-![](https://i.imgur.com/EYPSsKG.gif)
+![https://i.imgur.com/EYPSsKG.gif](https://i.imgur.com/EYPSsKG.gif)
 
 If you don't login, you won't have the authority to add or delete items
-![](https://i.imgur.com/sMO8ZZM.png)
-
-![](https://i.imgur.com/xSf4e69.png)
 
 
 ### Blog
 #### Add Post by Clicking the "+" Button
 #### Delete Post by Clicking the "x" Button
-![](https://i.imgur.com/CBb6Fum.gif)
+![https://i.imgur.com/CBb6Fum.gif](https://i.imgur.com/CBb6Fum.gif)
 
 ### App
 #### Add Playlist / Songs
 #### Delete Playlist / Song
-![](https://i.imgur.com/jpnsXxw.gif)
+![https://i.imgur.com/jpnsXxw.gif](https://i.imgur.com/jpnsXxw.gif)
 
 ## References
 **Whole Framework**
