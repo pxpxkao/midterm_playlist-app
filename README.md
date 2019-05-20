@@ -132,7 +132,7 @@ const ListSchema = new Schema({
 });
 ```
 
-## 心得
+## Reflection
 這次的Midterm Project要試著將後端與前端連起來，一開始不知道怎麼下手時，查了很多網站教學，有很多入門都是教chatbot, login/logout, todolist等等的功能，最後在youtube發現了Traversy Media的MERN(Mongoose, Express, React, Node)Shopping List教學影片，覺得一步步跟著他學會比較快理解整個架構要怎麼從最一開始建起來，所以選擇了這個shopping list的架構作為入門。
 
 這位作者從npm init，裝express, react，到怎麼先將後端建起來，再到刻前端，然後利用redux建middleware，最後把後端跟前端連在一起。
