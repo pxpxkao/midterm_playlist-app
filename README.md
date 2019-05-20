@@ -47,6 +47,7 @@ If you don't login, you won't have the authority to add or delete items
 #### Add Post by Clicking the "+" Button
 #### Delete Post by Clicking the "x" Button
 ![https://i.imgur.com/CBb6Fum.gif](https://i.imgur.com/CBb6Fum.gif)
+-> this link is available, but I don't know why it can't display
 
 ### App
 #### Add Playlist / Songs
