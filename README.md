@@ -31,6 +31,12 @@ npm run client
 ### Client on http://localhost:3000
 ```
 
+## Development
+
+Client-side programs in React.js
+Server-side programs in Express (Node.js)
+Database in Mongodb
+
 ## How to Use
 ### Homepage
 ![](https://i.imgur.com/YEYXfFV.jpg)
