@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://b05901006:test12345@mern-playlist-xm1xs.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "sl_myJwtSecret"
+}

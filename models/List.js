@@ -2,15 +2,19 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 // Create Schema
-const ItemSchema = new Schema({
+const ListSchema = new Schema({
     name: {
         type: String,
         required: true
     },
-    data: {
+    songs: {
+        type: Array,
+        default: []
+    },
+    date: {
         type: Date,
         default: Date.now
     }
 });
 
-module.exports = Item = mongoose.model('item', ItemSchema);
+module.exports = List = mongoose.model('list', ListSchema);
