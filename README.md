@@ -26,6 +26,9 @@ npm run server
 
 # Run the client side only
 npm run client
+
+### Server on http://localhost:7000
+### Client on http://localhost:3000
 ```
 
 ## How to Use
